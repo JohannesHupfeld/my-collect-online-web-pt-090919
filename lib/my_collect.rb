@@ -1,2 +1,3 @@
-def my_colle
+def my_collect(array)
+  
 
